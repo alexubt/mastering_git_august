@@ -1,2 +1,6 @@
 # mastering_git_august
-Line2
+## header2
+### header3
+
+Removed2
+Removed3
